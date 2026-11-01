@@ -1,0 +1,7 @@
+export default function Moods() {
+  return (
+    <div>
+      <h1>Moods</h1>
+    </div>
+  );
+}
